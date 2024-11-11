@@ -1,0 +1,1 @@
+# rust-next-fullstack
